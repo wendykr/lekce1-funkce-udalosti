@@ -32,7 +32,7 @@ pre {
 .ctverecek {
 	margin-top: 10px;
 	width: 150px;
-	height: 150px;
+	min-height: 150px;
 	text-align: center;
 	line-height: 150px;
 	background-color: yellow;
