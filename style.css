@@ -30,6 +30,7 @@ pre {
 }
 
 .ctverecek {
+	margin-top: 10px;
 	width: 150px;
 	height: 150px;
 	text-align: center;
@@ -44,4 +45,22 @@ pre {
 	padding: 20px;
 	border: 1px dashed tomato;
 	background-color: #f5f5f5;
+}
+
+.button__ukazVysledek {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.button__add {
+	padding: 10px;
+	border: 0;
+	border-radius: 5px;
+	background-color: #13529e;
+	color: white;
+	text-transform: uppercase;
+}
+
+.button__add:hover {
+	background-color: #083872;
 }
